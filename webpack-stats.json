@@ -1,0 +1,62 @@
+{
+  "status": "done",
+  "assets": {
+    "dlivrdlogo.png": {
+      "name": "dlivrdlogo.png",
+      "path": "D:\\work\\drive\\static\\dist\\dlivrdlogo.png",
+      "publicPath": "http://localhost:8080/dlivrdlogo.png"
+    },
+    "favicon.ico": {
+      "name": "favicon.ico",
+      "path": "D:\\work\\drive\\static\\dist\\favicon.ico",
+      "publicPath": "http://localhost:8080/favicon.ico"
+    },
+    "fonts/MaterialIcons-Regular.14b0bb77.woff": {
+      "name": "fonts/MaterialIcons-Regular.14b0bb77.woff",
+      "path": "D:\\work\\drive\\static\\dist\\fonts\\MaterialIcons-Regular.14b0bb77.woff",
+      "publicPath": "http://localhost:8080/fonts/MaterialIcons-Regular.14b0bb77.woff"
+    },
+    "fonts/MaterialIcons-Regular.a973ee76.eot": {
+      "name": "fonts/MaterialIcons-Regular.a973ee76.eot",
+      "path": "D:\\work\\drive\\static\\dist\\fonts\\MaterialIcons-Regular.a973ee76.eot",
+      "publicPath": "http://localhost:8080/fonts/MaterialIcons-Regular.a973ee76.eot"
+    },
+    "fonts/MaterialIcons-Regular.d1b99623.woff2": {
+      "name": "fonts/MaterialIcons-Regular.d1b99623.woff2",
+      "path": "D:\\work\\drive\\static\\dist\\fonts\\MaterialIcons-Regular.d1b99623.woff2",
+      "publicPath": "http://localhost:8080/fonts/MaterialIcons-Regular.d1b99623.woff2"
+    },
+    "fonts/MaterialIcons-Regular.fa58bcb9.ttf": {
+      "name": "fonts/MaterialIcons-Regular.fa58bcb9.ttf",
+      "path": "D:\\work\\drive\\static\\dist\\fonts\\MaterialIcons-Regular.fa58bcb9.ttf",
+      "publicPath": "http://localhost:8080/fonts/MaterialIcons-Regular.fa58bcb9.ttf"
+    },
+    "img/dlivrdlogo.f9fdb621.png": {
+      "name": "img/dlivrdlogo.f9fdb621.png",
+      "path": "D:\\work\\drive\\static\\dist\\img\\dlivrdlogo.f9fdb621.png",
+      "publicPath": "http://localhost:8080/img/dlivrdlogo.f9fdb621.png"
+    },
+    "index.html": {
+      "name": "index.html",
+      "path": "D:\\work\\drive\\static\\dist\\index.html",
+      "publicPath": "http://localhost:8080/index.html"
+    },
+    "js/app.js": {
+      "name": "js/app.js",
+      "path": "D:\\work\\drive\\static\\dist\\js\\app.js",
+      "publicPath": "http://localhost:8080/js/app.js"
+    },
+    "js/chunk-vendors.js": {
+      "name": "js/chunk-vendors.js",
+      "path": "D:\\work\\drive\\static\\dist\\js\\chunk-vendors.js",
+      "publicPath": "http://localhost:8080/js/chunk-vendors.js"
+    }
+  },
+  "chunks": {
+    "app": [
+      "js/chunk-vendors.js",
+      "js/app.js"
+    ]
+  },
+  "publicPath": "http://localhost:8080/"
+}
